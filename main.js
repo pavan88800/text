@@ -6,3 +6,31 @@ function callbac () {
 callbac ();
 callbac ();
 callbac ();
+
+function callbac () {
+  console.log ('called me later yes');
+}
+callbac ();
+callbac ();
+callbac ();
+
+function callbac () {
+  console.log ('called me later yes');
+}
+callbac ();
+callbac ();
+callbac ();
+
+function callbac () {
+  console.log ('called me later yes');
+}
+callbac ();
+callbac ();
+callbac ();
+
+function callbac () {
+  console.log ('called me later yes');
+}
+callbac ();
+callbac ();
+callbac ();
